@@ -1,2 +1,5 @@
-a=('ram',1,7)
-print(a,type(a))
+t=(1,2,3,4,5)
+e=int(input())
+d=t.index(e)
+print(d)
+
